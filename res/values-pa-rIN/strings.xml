@@ -27,7 +27,7 @@
     <string name="wallpaper_instructions" msgid="4215640646180727542">"ਵਾਲਪੇਪਰ ਸੈੱਟ ਕਰੋ"</string>
     <string name="pick_wallpaper" msgid="5630222540525626723">"ਵਾਲਪੇਪਰ"</string>
     <string name="activity_not_found" msgid="217823393239365967">"ਐਪ ਇੰਸਟੌਲ ਨਹੀਂ ਕੀਤਾ ਹੋਇਆ ਹੈ।"</string>
-    <string name="widgets_tab_label" msgid="9145860100000983599">"ਵਿਜੇਟਸ"</string>
+    <string name="widgets_tab_label" msgid="9145860100000983599">"ਵਿਜਿਟ"</string>
     <string name="long_press_widget_to_add" msgid="7395697462851217506">"ਇੱਕ ਵਿਜੇਟ ਚੁਣਨ ਲਈ ਛੋਹਵੋ &amp; ਹੋਲਡ ਕਰੋ।"</string>
     <string name="market" msgid="2652226429823445833">"ਦੁਕਾਨ"</string>
     <string name="widget_dims_format" msgid="1386418557719032947">"%1$d × %2$d"</string>
@@ -40,7 +40,7 @@
     <string name="menu_item_add_item" msgid="6233177331075781114">"ਹੋਮ ਸਕ੍ਰੀਨ ਵਿੱਚ ਜੋੜੋ"</string>
     <string name="group_applications" msgid="2103752818818161976">"ਐਪਾਂ"</string>
     <string name="group_shortcuts" msgid="9133529424900391877">"ਸ਼ੌਰਟਕਟਸ"</string>
-    <string name="group_widgets" msgid="6704978494073105844">"ਵਿਜੇਟਸ"</string>
+    <string name="group_widgets" msgid="6704978494073105844">"ਵਿਜਿਟ"</string>
     <string name="group_wallpapers" msgid="1568191644272224858">"ਵਾਲਪੇਪਰ"</string>
     <string name="completely_out_of_space" msgid="1759078539443491182">"ਤੁਹਾਡੀਆਂ ਹੋਮ ਸਕ੍ਰੀਨਾਂ ਤੇ ਹੋਰ ਖਾਲੀ ਸਥਾਨ ਨਹੀਂ ਹੈ।"</string>
     <string name="out_of_space" msgid="8365249326091984698">"ਇਸ ਹੋਮ ਸਕ੍ਰੀਨ ਲਈ ਹੋਰ ਖਾਲੀ ਸਥਾਨ ਨਹੀਂ ਹੈ।"</string>
@@ -104,7 +104,7 @@
     <string name="cling_dismiss" msgid="2780907108735868381">"ਠੀਕ"</string>
     <string name="folder_opened" msgid="1262064100943801533">"ਫੋਲਡਰ ਖੋਲ੍ਹਿਆ,  <xliff:g id="WIDTH">%1$d</xliff:g> ਬਾਇ <xliff:g id="HEIGHT">%2$d</xliff:g>"</string>
     <string name="folder_tap_to_close" msgid="1335478160661137579">"ਫੋਲਡਰ ਬੰਦ ਕਰਨ ਲਈ ਛੋਹਵੋ"</string>
-    <string name="folder_tap_to_rename" msgid="5201612989905472442">"ਮੁੜ ਨਾਮ ਦਿਓ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਛੋਹਵੋ"</string>
+    <string name="folder_tap_to_rename" msgid="5201612989905472442">"ਮੁੜ-ਨਾਮਕਰਨ ਕਰੋ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਛੋਹਵੋ"</string>
     <string name="folder_closed" msgid="3130534551370511932">"ਫੋਲਡਰ ਬੰਦ ਕੀਤਾ"</string>
     <string name="folder_renamed" msgid="7951233572858053642">"ਫੋਲਡਰ ਨੂੰ <xliff:g id="NAME">%1$s</xliff:g> ਮੁੜ ਨਾਮ ਦਿੱਤਾ ਗਿਆ"</string>
     <string name="folder_name_format" msgid="3051680259794759037">"ਫੋਲਡਰ: <xliff:g id="NAME">%1$s</xliff:g>"</string>
