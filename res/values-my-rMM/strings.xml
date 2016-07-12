@@ -62,7 +62,7 @@
     <string name="accessibility_voice_search_button" msgid="3938249215065842475">"အသံဖြင့် ရှာဖွေခြင်း"</string>
     <string name="accessibility_all_apps_button" msgid="8803738611398979849">"အက်ပ်များ"</string>
     <string name="accessibility_delete_button" msgid="3628162007991023603">"ဖယ်ရှာခြင်း"</string>
-    <string name="delete_zone_label_all_apps_system_app" msgid="3683920959591819044">"အဆင့်မြင့်ခြင်းကို ဖယ်ရှားပါ"</string>
+    <string name="delete_zone_label_all_apps_system_app" msgid="3683920959591819044">"အပ်ဒိတ်လုပ်ထားခြင်းကို ပြန်ထုတ်ပါ"</string>
     <string name="menu_add" msgid="3065046628354640854">"ထပ်ထည့်ရန်"</string>
     <string name="menu_manage_apps" msgid="2308685199463588895">"အပ်ပလီကေးရှင်းများအား စီမံခြင်း"</string>
     <string name="menu_wallpaper" msgid="5837429080911269832">"နောက်ခံ"</string>
